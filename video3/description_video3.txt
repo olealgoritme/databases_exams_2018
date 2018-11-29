@@ -1,0 +1,8 @@
+Video #3
+Database Scripts 
+------------------
+
+Criterias:
+- SQL scripts that creates the database chosen in Video #1
+- Has to include example data
+- Showing how to use the SQL scripts for importation and usage

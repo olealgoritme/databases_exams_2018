@@ -1,0 +1,10 @@
+Video #1
+Database modeling
+------------------
+
+Criterias:
+- Chosen area of interest
+- Has to be modeled in a `correct` and meaningful matter
+- Minimum 4 tables/entities with at least 1 connecting entity
+- Has to be drawn in LucidChart or similar software
+- Using crowfoots notation for visual representation of entity relationship

@@ -1,0 +1,15 @@
+#!/bin/bash
+#
+# This is how to install the express API (boilerplate) with jade view engine,
+# from scratch without our custom endpoints
+# Dependencies: nodejs, npm, express-generator
+# In terminal:
+#-------------------------------------
+sudo npm install express-generator -g
+express backendName
+cd backendName
+npm install
+npm start
+#-------------------------------------
+# Voila!
+# - Ole Algoritme

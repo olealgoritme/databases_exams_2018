@@ -1,0 +1,7 @@
+Video #2
+Database normalization
+------------------
+
+Criterias:
+- Explanation of which normalization form the database has in Video #1
+- Explanation of functional dependency and determinance
