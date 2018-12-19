@@ -1,4 +1,4 @@
-Datbases video exam 2018
+Datbase systems video exam 2018
 by Ole Algoritme
 -------------------------
 
@@ -28,7 +28,7 @@ Criterias:
 
 
 Video #3
-Database Scripts 
+Database Scripts
 ------------------
 
 Criterias:
@@ -44,7 +44,5 @@ Database SQL Queries
 
 Criterias:
 - Showing usage of GROUP BY, JOIN INNER/LEFT/RIGHT, SUB QUERIES, VIEWS etc
-- Needs to show complexity with complex queries to display knowledge level
-- Use both MySQL WorkBench and other SQL client 
 
 

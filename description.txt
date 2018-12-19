@@ -1,1 +1,1 @@
-### DESCRIPTION FILE FOR VIDEOS AND DATABASE (+ META DATA)
+### This repository consists of videos which are part of my exams in the Database systems course for December 2018 ###
