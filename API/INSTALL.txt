@@ -12,4 +12,10 @@ npm install
 npm start
 #-------------------------------------
 # Voila!
+#
+# PS! The API endpoints in the app inside "db_endpoint" folder
+# are probably not set.
+# Please check code first. If needed, I can push a newer version
+# with real endpoints connected to the dB.
+#
 # - Ole Algoritme

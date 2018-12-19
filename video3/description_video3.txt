@@ -3,6 +3,6 @@ Database Scripts
 ------------------
 
 Criterias:
-- SQL scripts that creates the database chosen in Video #1
+- SQL script that creates the database we have used previously 
 - Has to include example data
 - Showing how to use the SQL scripts for importation and usage
