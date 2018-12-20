@@ -1,7 +1,11 @@
--- choose database name here =)
+-- this script is for database video #3
+-- you can replace "database_script" with a different database name
+
 CREATE DATABASE IF NOT EXISTS database_script CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
 USE database_script;
 
+
+-- creating all the tables we need
 
 CREATE TABLE `ProductTypes` (
   `ProductType_ID` int(11) NOT NULL AUTO_INCREMENT,
@@ -43,7 +47,9 @@ CREATE TABLE `OrderDetails` (
 );
 
 
--- add dummy data =)
+-- adding data to our database tables
+-- data is exactly the same as used in video #2 regarding normalization
+
 INSERT INTO ProductTypes (Product_Type) VALUES ('GPU');
 INSERT INTO ProductTypes (Product_Type) VALUES ('CPU');
 INSERT INTO ProductTypes (Product_Type) VALUES ('RAM');
@@ -67,4 +73,3 @@ INSERT INTO OrderDetails (Order_ID, Product_ID, Customer_ID) VALUES (1, 3, 1);
 INSERT INTO OrderDetails (Order_ID, Product_ID, Customer_ID) VALUES (2, 4, 2);
 INSERT INTO OrderDetails (Order_ID, Product_ID, Customer_ID) VALUES (2, 5, 2);
 INSERT INTO OrderDetails (Order_ID, Product_ID, Customer_ID) VALUES (2, 6, 2);
-
